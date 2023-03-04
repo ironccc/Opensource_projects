@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetCN1_A7 Pin=U2-2
+Added Pin To Net: NetName=NetCN1_A6 Pin=U2-3
+Change Net Name : Old Net Name=NetCN1_A6 New Net Name=USBD+
+Change Net Name : Old Net Name=NetCN1_A7 New Net Name=USBD-

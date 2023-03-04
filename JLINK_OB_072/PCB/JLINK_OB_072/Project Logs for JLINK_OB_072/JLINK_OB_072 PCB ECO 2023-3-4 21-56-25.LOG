@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=Net*_1 New Net Name=RXD
+Change Net Name : Old Net Name=Net*_2 New Net Name=TXD
+Change Net Name : Old Net Name=Net*_4 New Net Name=SWC
+Change Net Name : Old Net Name=Net*_5 New Net Name=SWD
