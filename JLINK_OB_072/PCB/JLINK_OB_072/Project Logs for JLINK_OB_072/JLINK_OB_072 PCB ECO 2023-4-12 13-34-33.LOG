@@ -1,0 +1,15 @@
+Added Component: Designator=*1(HDR2.54-WS-6P)
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SWO Pin=*1-6
+Added Pin To Net: NetName=SWO Pin=U1-13
+Added Net: Name=SWO
+Added Member To Class: ClassName=JLINK_OB_072 Member=Component *1 2.54≈≈’Î6p
