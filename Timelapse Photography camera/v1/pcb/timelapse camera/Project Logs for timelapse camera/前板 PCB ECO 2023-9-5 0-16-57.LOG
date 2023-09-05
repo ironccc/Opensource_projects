@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=VCC Pin=R9-1
+Added Component: Designator=C22(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAPC1608X90X40NL10T20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-8_208mil)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Clock Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "104MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Format"; Value = "Non-Volatile,FLASH,NOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "16777216"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.7V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VCC Pin=C23-2
+Added Pin To Net: NetName=VCC Pin=camera socket-1
+Added Pin To Net: NetName=GND Pin=camera socket-2
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=VCC Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=VCC Pin=U3-7
+Added Pin To Net: NetName=VCC Pin=U3-8
+Added Pin To Net: NetName=FLASH_CS Pin=U1-73
+Added Pin To Net: NetName=FLASH_CS Pin=U3-1
+Added Net: Name=FLASH_CS
+Added Pin To Net: NetName=FLASH_MISO Pin=U1-75
+Added Pin To Net: NetName=FLASH_MISO Pin=U3-2
+Added Net: Name=FLASH_MISO
+Added Pin To Net: NetName=FLASH_MOSI Pin=U1-76
+Added Pin To Net: NetName=FLASH_MOSI Pin=U3-5
+Added Net: Name=FLASH_MOSI
+Added Pin To Net: NetName=FLASH_SCK Pin=U1-74
+Added Pin To Net: NetName=FLASH_SCK Pin=U3-6
+Added Net: Name=FLASH_SCK
+Added Pin To Net: NetName=OV D0 PC0 Pin=camera socket-8
+Added Pin To Net: NetName=OV D0 PC0 Pin=U1-26
+Added Net: Name=OV D0 PC0
+Added Pin To Net: NetName=OV D1 PC 1 Pin=camera socket-9
+Added Pin To Net: NetName=OV D1 PC 1 Pin=U1-27
+Added Net: Name=OV D1 PC 1
+Added Pin To Net: NetName=OV D2 PC2 Pin=camera socket-10
+Added Pin To Net: NetName=OV D2 PC2 Pin=U1-28
+Added Net: Name=OV D2 PC2
+Added Pin To Net: NetName=OV D3 PC3 Pin=camera socket-11
+Added Pin To Net: NetName=OV D3 PC3 Pin=U1-29
+Added Net: Name=OV D3 PC3
+Added Pin To Net: NetName=OV D4 PC4 Pin=camera socket-12
+Added Pin To Net: NetName=OV D4 PC4 Pin=U1-44
+Added Net: Name=OV D4 PC4
+Added Pin To Net: NetName=OV D5 PC5 Pin=camera socket-13
+Added Pin To Net: NetName=OV D5 PC5 Pin=U1-45
+Added Net: Name=OV D5 PC5
+Added Pin To Net: NetName=OV D6 PC6 Pin=camera socket-14
+Added Pin To Net: NetName=OV D6 PC6 Pin=U1-96
+Added Net: Name=OV D6 PC6
+Added Pin To Net: NetName=OV D7 PC7 Pin=camera socket-15
+Added Pin To Net: NetName=OV D7 PC7 Pin=U1-97
+Added Net: Name=OV D7 PC7
+Added Pin To Net: NetName=OV OE PG15 Pin=camera socket-7
+Added Pin To Net: NetName=OV OE PG15 Pin=U1-132
+Added Net: Name=OV OE PG15
+Added Pin To Net: NetName=OV RCLK PB4 Pin=camera socket-16
+Added Pin To Net: NetName=OV RCLK PB4 Pin=U1-134
+Added Net: Name=OV RCLK PB4
+Added Pin To Net: NetName=OV RRST PG14 Pin=camera socket-5
+Added Pin To Net: NetName=OV RRST PG14 Pin=U1-129
+Added Net: Name=OV RRST PG14
+Added Pin To Net: NetName=OV SCL PD3 Pin=camera socket-4
+Added Pin To Net: NetName=OV SCL PD3 Pin=U1-117
+Added Net: Name=OV SCL PD3
+Added Pin To Net: NetName=OV SDA PG13 Pin=camera socket-6
+Added Pin To Net: NetName=OV SDA PG13 Pin=U1-128
+Added Net: Name=OV SDA PG13
+Added Pin To Net: NetName=OV VSYNC PA8 Pin=camera socket-17
+Added Pin To Net: NetName=OV VSYNC PA8 Pin=U1-100
+Added Net: Name=OV VSYNC PA8
+Added Pin To Net: NetName=OV WEN PB3 Pin=camera socket-18
+Added Pin To Net: NetName=OV WEN PB3 Pin=U1-133
+Added Net: Name=OV WEN PB3
+Added Pin To Net: NetName=OV WRST PD6 Pin=camera socket-3
+Added Pin To Net: NetName=OV WRST PD6 Pin=U1-122
+Added Net: Name=OV WRST PD6
+Added Pin To Net: NetName=SDIO CMD Pin=MICRO_SD1-3
+Added Pin To Net: NetName=SDIO CMD Pin=R10-2
+Added Pin To Net: NetName=SDIO CMD Pin=U1-116
+Added Net: Name=SDIO CMD
+Added Pin To Net: NetName=SDIO D0 Pin=MICRO_SD1-7
+Added Pin To Net: NetName=SDIO D0 Pin=R11-2
+Added Pin To Net: NetName=SDIO D0 Pin=U1-98
+Added Net: Name=SDIO D0
+Added Pin To Net: NetName=SDIO D1 Pin=MICRO_SD1-8
+Added Pin To Net: NetName=SDIO D1 Pin=R12-2
+Added Pin To Net: NetName=SDIO D1 Pin=U1-99
+Added Net: Name=SDIO D1
+Added Pin To Net: NetName=SDIO D2 Pin=MICRO_SD1-1
+Added Pin To Net: NetName=SDIO D2 Pin=R13-2
+Added Pin To Net: NetName=SDIO D2 Pin=U1-111
+Added Net: Name=SDIO D2
+Added Pin To Net: NetName=SDIO D3 Pin=MICRO_SD1-2
+Added Pin To Net: NetName=SDIO D3 Pin=R14-2
+Added Pin To Net: NetName=SDIO D3 Pin=U1-112
+Added Net: Name=SDIO D3
+Added Pin To Net: NetName=SDIO SCK Pin=R9-1
+Added Pin To Net: NetName=SDIO SCK Pin=U1-113
+Added Net: Name=SDIO SCK
+Added Member To Class: ClassName=前板 Member=Component C22 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=前板 Member=Component C23 Capacitor 100 nF +/-10% 50 V 0603
+Added Member To Class: ClassName=前板 Member=Component U3 W25Q128FVSIG
+Added Room: Name=前板

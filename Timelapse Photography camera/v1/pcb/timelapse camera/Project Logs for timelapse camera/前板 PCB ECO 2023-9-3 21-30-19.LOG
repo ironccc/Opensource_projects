@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=前板 Member=J1
+Added Component: Designator=JP2(HDR2.54-M-LS-2x9P)
+Add component (AddParameter): Name = "BOM名称"; Value = "9*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Header 9X2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "4.6   - 接插件-脚距2.54.SchLib"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=前板 Member=Component JP2 Header 9X2
+Added Room: Name=前板
