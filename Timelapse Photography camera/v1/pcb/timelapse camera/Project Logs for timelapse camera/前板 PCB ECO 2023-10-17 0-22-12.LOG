@@ -1,0 +1,54 @@
+Added Component: Designator=R17(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "3.1   - 电阻-电容-电感.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R18(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "3.1   - 电阻-电容-电感.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R19(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "3.1   - 电阻-电容-电感.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=JP1-3
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=VCC Pin=U2-C
+Added Pin To Net: NetName=ENCODER_A Pin=R17-2
+Added Pin To Net: NetName=ENCODER_A Pin=U1-136
+Added Pin To Net: NetName=ENCODER_A Pin=U2-A
+Added Net: Name=ENCODER_A
+Added Pin To Net: NetName=ENCODER_B Pin=R18-1
+Added Pin To Net: NetName=ENCODER_B Pin=U1-137
+Added Pin To Net: NetName=ENCODER_B Pin=U2-B
+Added Net: Name=ENCODER_B
+Added Pin To Net: NetName=ENCODER_S Pin=R19-2
+Added Pin To Net: NetName=ENCODER_S Pin=U1-47
+Added Pin To Net: NetName=ENCODER_S Pin=U2-S
+Added Net: Name=ENCODER_S
+Added Pin To Net: NetName=LCD_BLK Pin=JP1-8
+Added Pin To Net: NetName=LCD_BLK Pin=U1-40
+Added Net: Name=LCD_BLK
+Added Pin To Net: NetName=LCD_CS Pin=JP1-6
+Added Pin To Net: NetName=LCD_CS Pin=U1-46
+Added Net: Name=LCD_CS
+Added Pin To Net: NetName=LCD_DC Pin=JP1-12
+Added Pin To Net: NetName=LCD_DC Pin=U1-42
+Added Net: Name=LCD_DC
+Added Pin To Net: NetName=LCD_MOSI Pin=JP1-14
+Added Pin To Net: NetName=LCD_MOSI Pin=U1-43
+Added Net: Name=LCD_MOSI
+Added Pin To Net: NetName=LCD_RES Pin=JP1-4
+Added Pin To Net: NetName=LCD_RES Pin=U1-35
+Added Net: Name=LCD_RES
+Added Pin To Net: NetName=LCD_SCK Pin=JP1-10
+Added Pin To Net: NetName=LCD_SCK Pin=U1-41
+Added Net: Name=LCD_SCK
+Added Member To Class: ClassName=前板 Member=Component R17 10k
+Added Member To Class: ClassName=前板 Member=Component R18 10k
+Added Member To Class: ClassName=前板 Member=Component R19 10k
+Added Room: Name=前板

@@ -1,0 +1,45 @@
+Added Component: Designator=JP2(HDR2.54-LI-2x4P)
+Add component (AddParameter): Name = "BOM名称"; Value = "4*2P接插件"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "Header 4X2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "4.6   - 接插件-脚距2.54.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "3.1   - 电阻-电容-电感.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=R16(R 0603_L)
+Add component (AddParameter): Name = "BOM名称"; Value = "贴片电阻"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "3.1   - 电阻-电容-电感.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=VCC Pin=JP2-7
+Added Pin To Net: NetName=VCC Pin=R15-1
+Added Pin To Net: NetName=VCC Pin=R16-1
+Added Pin To Net: NetName=NetJP2_3 Pin=JP2-3
+Added Pin To Net: NetName=NetJP2_3 Pin=R15-2
+Added Net: Name=NetJP2_3
+Added Pin To Net: NetName=NetJP2_5 Pin=JP2-5
+Added Pin To Net: NetName=NetJP2_5 Pin=R16-2
+Added Net: Name=NetJP2_5
+Added Pin To Net: NetName=USART2_RX Pin=JP2-1
+Added Pin To Net: NetName=USART2_RX Pin=U1-37
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=JP2-8
+Added Pin To Net: NetName=USART2_TX Pin=U1-36
+Added Net: Name=USART2_TX
+Added Member To Class: ClassName=前板 Member=Component JP2 2.54排针排母 4X2
+Added Member To Class: ClassName=前板 Member=Component R15 10k
+Added Member To Class: ClassName=前板 Member=Component R16 10k
+Added Room: Name=前板
