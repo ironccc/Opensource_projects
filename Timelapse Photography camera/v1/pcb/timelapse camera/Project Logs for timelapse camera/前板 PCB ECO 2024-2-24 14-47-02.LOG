@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=4v7in Pin=JP1-2
+Removed Pin From Net: NetName=VCC Pin=JP1-3
+Removed Pin From Net: NetName=LCD_RES Pin=JP1-4
+Removed Pin From Net: NetName=LCD_CS Pin=JP1-6
+Removed Pin From Net: NetName=LCD_BLK Pin=JP1-8
+Removed Pin From Net: NetName=LCD_SCK Pin=JP1-10
+Removed Pin From Net: NetName=LCD_DC Pin=JP1-12
+Removed Pin From Net: NetName=LCD_MOSI Pin=JP1-14
+Change Component Footprint: Designator=JP1 Old Footprint=HDR2.54-LI-2x9P New Footprint=XH2.54-WI-10P
+Change Component Comment : Designator=JP1 Old Comment=Header 9X2 New Comment=10p
+Change Managed Component Library Link : Designator=JP1 Old VaultGUID=A598828B-A3AE-43C1-8989-B934D839175F New VaultGUID=A598828B-A3AE-43C1-8989-B934D839175F Old ItemGUID=4C9C9E43-D08A-4950-826B-AFF84B27B79B New ItemGUID=8896A1A8-9043-4894-8DC9-D0258A8381F7 Old RevisionGUID=99D0D174-E8A5-4FDF-9373-9E23C2717AF4 New RevisionGUID=6EE8D550-A14C-4045-B822-D99044CE07D1
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "HDR2.54-LI-2x9P"; UniqueID = "\QRDNBKID" ("\QRDNBKID")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "10p"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "线对板线对线连接器.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=4v7in Pin=JP1-1
+Added Pin To Net: NetName=LCD_RES Pin=JP1-2
+Added Pin To Net: NetName=LCD_CS Pin=JP1-3
+Added Pin To Net: NetName=LCD_BLK Pin=JP1-4
+Added Pin To Net: NetName=LCD_SCK Pin=JP1-5
+Added Pin To Net: NetName=LCD_DC Pin=JP1-6
+Added Pin To Net: NetName=LCD_MOSI Pin=JP1-7
+Added Pin To Net: NetName=GND Pin=JP1-8
+Added Pin To Net: NetName=VCC Pin=JP1-9
+Added Room: Name=前板
